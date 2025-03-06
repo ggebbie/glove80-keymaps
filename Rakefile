@@ -98,6 +98,7 @@ layers_pdf_sequence = %w[
   base-layer-diagram-Engrammer
   base-layer-diagram-Engram
   base-layer-diagram-QWERTY
+  base-layer-diagram-Promethium
   base-layer-diagram-template
   lower-layer-diagram
   magic-layer-diagram
