@@ -151,13 +151,9 @@
     "Lower",
     {
       "c": "#cccccc",
-      "t": "#000000",
-      "f": 4
+      "t": "#000000"
     },
     "V",
-    {
-      "f": 3
-    },
     "W",
     "G",
     "M",
@@ -281,19 +277,19 @@
       "c": "#cccccc",
       "t": "#000000",
       "p": "CHICKLET",
-      "a": 5,
       "f": 4
     },
-    "{\n[",
-    "<\n(",
-    ">\n)",
+    "&larr;",
+    "&uarr;",
+    "&darr;",
     {
       "c": "#d1c4e9",
       "p": "SPACE"
     },
-    "}\n]\n\n\nEmoji",
+    "&rarr;\n\n\n\nEmoji",
     {
       "c": "#D1C4E9",
+      "a": 5,
       "f": 3
     },
     "Back\n\n\n\nFunction\n\nspace",
